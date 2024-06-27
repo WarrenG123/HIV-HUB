@@ -1,0 +1,8 @@
+
+  
+  .btn-primary.rounded-pill.btn-sm {
+    /* Adjust button styles here */
+    padding: 0.5rem 1rem; 
+    width: 10px;/* Example padding adjustment for smaller size */
+  }
+  
