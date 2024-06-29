@@ -12,6 +12,9 @@ body {
   display: flex;
   flex-direction: column;
 }
+.home_welcome{
+  font-weight: bold;
+}
 
 footer {
   width: 100%;
